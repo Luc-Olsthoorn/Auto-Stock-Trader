@@ -1,0 +1,12 @@
+{
+  "name": "auto-trader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "alphavantage": "1.2.6",
+    "regression": "latest",
+    "moment": "latest",
+    "prompt-async": "latest"
+  }
+}
